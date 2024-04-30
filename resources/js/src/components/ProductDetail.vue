@@ -12,15 +12,6 @@
   </template>
   
   <script>
-  export default {
-    name: 'ProductDetail',
-    data() {
-      return {
-        produto: null 
-      };
-    }
-  }
-  <script>
 import axios from 'axios';
 
 export default {
