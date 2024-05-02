@@ -22,7 +22,7 @@ MySQL Community Server: [MySQL Community Server](https://www.mysql.com/)
 Clone o repositório do projeto em sua máquina local usando o Git:
 
 ```bash
-    $ git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    $ git clone https://github.com/Sandenberg/teste_innyx.git
 ```
 
 ## 3. Configuração do Projeto Laravel
@@ -67,10 +67,10 @@ Inicie o servidor Laravel:
 Inicie o servidor de desenvolvimento Vue.js:
 ```bash
     cd resources/js
-    npm run serve
+    npm run dev
 ```
 
 
 ## 6. Acesso ao Aplicativo
-Após iniciar os servidores Laravel e Vue.js, acesse o aplicativo em seu navegador da web em http://localhost:8080.
+Após iniciar os servidores Laravel e Vue.js, acesse o aplicativo em seu navegador da web em http://localhost:8000.
 
